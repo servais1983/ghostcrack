@@ -1,5 +1,7 @@
+
+![image](https://github.com/user-attachments/assets/74a48481-8af3-49e0-93ad-0470b894d1c1)
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/servais1983/ghostcrack/main/assets/ghostcrack_logo.png" alt="GhostCrack Logo" width="200"/>
   <h1>GhostCrack CLI</h1>
   <p><em>Brute-Force Moderne et Intelligent</em></p>
   
