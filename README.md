@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/626e07d0-9a12-448e-bf50-5fb1b95f2d94)
+
+
 # GhostCrack CLI – Brute-Force Moderne et Intelligent
 
 **GhostCrack** est un outil CLI modulaire et extensible permettant d'effectuer des attaques par force brute éthiques dans un cadre professionnel (pentest, red team). Il supporte plusieurs protocoles, l'export JSON/PDF, les proxies, la détection de blocage, et intègre une base IA pour la prédiction de mots de passe.
