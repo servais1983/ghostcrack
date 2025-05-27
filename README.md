@@ -89,6 +89,12 @@ ghostcrack/
 git clone https://github.com/servais1983/ghostcrack
 cd ghostcrack
 
+#environnement virtuel
+
+python3 -m venv env
+
+source env/bin/activate
+
 # Installer les dépendances
 pip install -r requirements.txt
 ```
