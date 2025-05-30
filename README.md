@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/74a48481-8af3-49e0-93ad-0470b894d1c1)
+![image](ghostcrack.png)
 
 <div align="center">
   <h1>GhostCrack CLI</h1>
